@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="true">
+  <test name="Test">
+    <classes>
+      <class name="testNgFramework.TF01_TestNgTestCaseDemo1"/>
+      <class name="testNgFramework.TF02_TestNgTestCaseDemo2"/>
+      <class name="testNgFramework.TF03_TestNgTestCaseDemo3"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
